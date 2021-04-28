@@ -49,7 +49,9 @@ Il fonctionne comme un système de mailing ou mieux encore le système d'encapsu
 ## Structure de données informatique pour (https://en.wikipedia.org/wiki/List_of_data_structures)
 <br/>
 
-Il s'agit pour cette structure d'un `Structure de données Linéaire` car nous avons différents type de datas comme des tableau, pile, liste chaînée, etcc.
+Il s'agit pour cette structure d'une `Structure de données Linéaire` car nous avons différents type de datas comme des tableaux, piles, listes chaînée, etcc.<br/>
+Ceux-ci étant construit d'une manière séquencielle et non hiérarchisé.
+
 
 S'il s'agissait de datas sous forme d'arbre ou bien de graphe, la structure de données aurrait été non linéaire.<br/>
 <br/>
