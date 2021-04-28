@@ -36,6 +36,16 @@ Afin que le bloc soit valide, le hash de l’en-tête de ce dernier doit commenc
 Il émit une proposition concernant l'applications possibles de Hashcash, la première fonction de preuve de travail symétrique pour un l'application du "système de paiement électronique anonyme et distribué", sous l'appelation `B-money`.<br/>
 <br/>
 
+## Lien entre les différents Blocks d'une Blockchain
+<br/>
+Comme je l'ai exprimé dans la question de comment les noeuds trouve leurs places au sein de leurs propre réseau, les screens montrent comment les blocks se retrouve entre eux.<br/>
+Il fonctionne comme un système de mailing ou mieux encore le système d'encapsulation du modèle osi voir screen ci-dessous.<br/>
+<br/>
+
+![Comparatif OSI/Blockchain](./DeOSIaBlockchain.png)<br/>
+<br/>
+
+
 ## Structure de données informatique pour (https://en.wikipedia.org/wiki/List_of_data_structures)
 <br/>
 
