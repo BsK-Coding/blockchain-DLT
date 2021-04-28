@@ -51,4 +51,12 @@ Il fonctionne comme un système de mailing ou mieux encore le système d'encapsu
 
 Il s'agit pour cette structure d'un `Structure de données Linéaire` car nous avons différents type de datas comme des tableau, pile, liste chaînée, etcc.
 
-S'il s'agissait de datas sous forme d'arbre ou bien de graphe, la structure de données aurrait été non linéaire.
+S'il s'agissait de datas sous forme d'arbre ou bien de graphe, la structure de données aurrait été non linéaire.<br/>
+<br/>
+
+## Est ce qu'une modification antérieur passé peut elle être effectué 60 mois après ?
+<br/>
+
+`Non`, car cela voudrait dire que l'on peut faslifier les registre de la Blockchain et donc que le système mis en place ne serait tout bonnement pas sécurisé.<br/>
+
+<em>Toutefois, la première cause de faille de sécurité étant humaine étant humaine la sécurité n'est pas assuré à 100%.</em>
