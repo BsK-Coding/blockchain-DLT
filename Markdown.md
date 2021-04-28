@@ -35,3 +35,9 @@ Afin que le bloc soit valide, le hash de l’en-tête de ce dernier doit commenc
 <b>`Wei Dai`</b> fesait partie d'un groupe de Cypherpunks, une communauté qui défendait les droits à la vie privée.
 Il émit une proposition concernant l'applications possibles de Hashcash, la première fonction de preuve de travail symétrique pour un l'application du "système de paiement électronique anonyme et distribué", sous l'appelation `B-money`.
 
+
+## Structure de données informatique pour (https://en.wikipedia.org/wiki/List_of_data_structures)
+
+Il s'agit pour cette structure d'un `Structure de données Linéaire` car nous avons différents type de datas comme des tableau, pile, liste chaînée, etcc.
+
+S'il s'agissait de datas sous forme d'arbre ou bien de graphe, la structure de données aurrait été non linéaire.
