@@ -49,11 +49,7 @@ Il fonctionne comme un système de mailing ou mieux encore le système d'encapsu
 ## Structure de données informatique pour (https://en.wikipedia.org/wiki/List_of_data_structures)
 <br/>
 
-Il s'agit pour cette structure d'une `Structure de données Linéaire` car nous avons différents type de datas comme des tableaux, piles, listes chaînée, etcc.<br/>
-Ceux-ci étant construit d'une manière séquencielle et non hiérarchisé.
-
-
-S'il s'agissait de datas sous forme d'arbre ou bien de graphe, la structure de données aurrait été non linéaire.<br/>
+Il s'agit pour cette structure d'une `Structure de données basé sur le hash` car l'arbre de Merkle à un type de datas sous forme d'arbre (Hash Tree)<br/>
 <br/>
 
 ## Est ce qu'une modification antérieur passé peut elle être effectué 60 mois après ?
